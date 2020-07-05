@@ -36,3 +36,77 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: "Amiko", sans-serif;
+}
+
+#wrapper {
+  background-color: rgb(212, 215, 218);
+  background-repeat: no-repeat;
+  background-size: auto 2048px;
+}
+
+.hero {
+  background-color: rgb(98, 117, 131);
+}
+
+.hero h1 {
+  font-family: "Cabin", sans-serif;
+  color: white;
+}
+
+.container#body {
+  height: 1200px;
+}
+
+#content .section {
+  padding-bottom: 0px;
+}
+
+.media .media-left img {
+  max-width: 400px;
+}
+
+textarea#text-textarea {
+  resize: none;
+}
+
+.box {
+  border-radius: 0px;
+}
+
+#profile-photo {
+  margin-bottom: 24px;
+}
+
+.hero-body {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+img#hero-logo {
+  height: 300px;
+  width: 300px;
+}
+
+.navbar-brand {
+  padding-left: 24px;
+}
+
+.navbar-menu {
+  padding-right: 24px;
+}
+
+#body {
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+.modal-content {
+  width: 960px;
+}

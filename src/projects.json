@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Employee Summary",
+    "date": "20 April, 2020",
+    "description": "Command line application that takes user input and generates an HTML file depicting a development team. It demonstrates the principles of object-oriented and modular programming. It uses HTML5, CSS3, Bootstrap, Javascript, Node.js and inquirer.",
+    "githubUrl": "https://github.com/mjsouthcott/10-template-engine-employee-summary",
+    "deployedAppUrl": "",
+    "image": "assets/images/employee-summary.png",
+    "id": "article-1-photo",
+    "dataTarget": "article-1-modal"
+  },
+  {
+    "title": "Weather Dashboard",
+    "date": "22 March, 2020",
+    "description": "Displays the current weather and five-day forecast for a city specified by the user. Runs in the browser, and features dynamically updating HTML and CSS, powered by jQuery and the OpenWeather API.",
+    "githubUrl": "https://github.com/mjsouthcott/06-weather-dashboard",
+    "deployedAppUrl": "https://mjsouthcott.github.io/06-weather-dashboard",
+    "image": "assets/images/weather-dashboard.png",
+    "id": "article-2-photo",
+    "dataTarget": "article-2-modal"
+  },
+  {
+    "title": "Work Day Scheduler",
+    "date": "15 March, 2020",
+    "description": "Provides a simple calendar that allows users to save events for each standard business hour of the day. Runs in the browser, and features dynamically updating HTML and CSS, powered by jQuery.",
+    "githubUrl": "https://github.com/mjsouthcott/05-day-planner",
+    "deployedAppUrl": "https://mjsouthcott.github.io/05-day-planner",
+    "image": "assets/images/work-day-scheduler.png",
+    "id": "article-3-photo",
+    "dataTarget": "article-3-modal"
+  }
+]
