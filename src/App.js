@@ -16,8 +16,8 @@ function App () {
         <CustomHeader />
         <Navbar />
         <Body>
-          <Route exact path={['/', '/projects']} component={Projects} />
-          <Route exact path='/about' component={About} />
+          <Route exact path='./about' component={About} />
+          <Route exact path='./' component={Projects} />
         </Body>
         <Footer />
       </Router>
