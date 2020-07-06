@@ -12,7 +12,7 @@ import About from './pages/About'
 function App () {
   return (
     <Wrapper>
-      <Router basename='/'>
+      <Router basename='/20-react-portfolio'>
         <CustomHeader />
         <Navbar />
         <Body>
