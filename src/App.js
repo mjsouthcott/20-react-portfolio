@@ -12,12 +12,12 @@ import About from './pages/About'
 function App () {
   return (
     <Wrapper>
-      <Router>
+      <Router basename='/'>
         <CustomHeader />
         <Navbar />
         <Body>
-          <Route exact path='./about' component={About} />
-          <Route exact path='./' component={Projects} />
+          <Route exact path='/' component={Projects} />
+          <Route exact path='/about' component={About} />
         </Body>
         <Footer />
       </Router>
