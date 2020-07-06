@@ -9,7 +9,7 @@
 
 My previous portfolio page has been refactored to use React. It uses reusable React components and React Router to perform client-side routing to determine what's rendered to the page. It contains two pages: Projects (default) and About. It features a short bio, my contact details, and links to my professional and social media accounts. It's completely responsive, and uses the Bulma CSS framework (https://bulma.io/).
 
-![Projects(]https://github.com/mjsouthcott/20-react-portfolio/blob/master/public/assets/images/demo1.PNG)
+![Projects](https://github.com/mjsouthcott/20-react-portfolio/blob/master/public/assets/images/demo1.PNG)
 
 ![About](https://github.com/mjsouthcott/20-react-portfolio/blob/master/public/assets/images/demo2.PNG)
 
